@@ -1,8 +1,8 @@
 # covid-simple-homeless-tracker 🗺
-This was a simple Application developed to help to map homeless people in India(Though works world wide) created using flutter and fire base.
-It was developed within 3 days to help in mapping these people during the initial stages of Covid in India.
-After release though there was appreciation about the thought there wasn't wirespread use of the application.
-This was deveoped under our team name '4R team'.
+This was a simple Application developed to help to map homeless people in India (Though works world wide) created using flutter and fire base.
+It was developed within 3 days to help in mapping these people during the initial stages of Covid-19 in India.
+After release though there was appreciation about the thought there wasn't widespread use of the application.
+This was developed under our team name '4R team'.
 - ## Map displaying our live location on the map 📌
 <img align = "center" src="https://github.com/ritika-singh2000/Covid---Homeless-Tracker-App/blob/master/presentaionlayer.jpeg?raw=true" width="400" height ="400">
 
